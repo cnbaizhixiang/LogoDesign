@@ -1,0 +1,14 @@
+//vuetify样式
+
+.v-skeleton-loader__image {
+    height: 400px;
+   
+  }
+
+.theme--light.v-skeleton-loader .v-skeleton-loader__image, .theme--light.v-skeleton-loader .v-skeleton-loader__text {
+    background:rgb(255, 255, 255,0.42);
+}
+
+.v-overlay--absolute{
+  position:fixed;
+}

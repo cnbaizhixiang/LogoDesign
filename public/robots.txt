@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /make*
+Disallow: /edit*
+Disallow: /home*
+
+Sitemap: https://logoaidesign.com/sitemap.xml
+
